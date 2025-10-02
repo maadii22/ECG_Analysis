@@ -1,0 +1,25 @@
+# Data and models
+datasets/
+models/
+results/
+
+# Python envs
+.venv/
+venv/
+.env
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Checkpoints and model weights
+*.h5
+*.hdf5
+*.ckpt
+
+# IDE and OS
+.vscode/
+.DS_Store
+
+# Secrets
+kaggle.json
